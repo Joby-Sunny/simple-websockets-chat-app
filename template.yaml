@@ -1,7 +1,7 @@
 AWSTemplateFormatVersion: '2010-09-09'
 Transform: AWS::Serverless-2016-10-31
 Description: >
-  simple-websockets-chat-app
+  simple-websockets-chat-app-stack-1
 
   SAM Template for simple-websockets-chat-app that has the DynamoDB table and Lambda
   functions needed to demonstrate the Websocket protocol on API Gateway.
